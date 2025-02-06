@@ -1,3 +1,3 @@
 # prank-mr.mueller
 
-[start your adventure](darrenl5941.github.io/prank-mr.mueller/door.html)
+[start your adventure](https://darrenl5941.github.io/prank-mr.mueller/)
